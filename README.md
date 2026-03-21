@@ -16,8 +16,8 @@ O Brasil posiciona-se como o líder mundial na importação de fertilizantes, de
 
 ### Projeções por Complexos Portuários
 * [Maranhão – Outros Superfosfatos](https://quantimportbrazil.github.io/portos_do_maranhao_outros_superfosfatos/)
-* [São Paulo – Ureia](https://quantimportbrazil.github.io/portos_do_maranhão_outros_superfosfatos/)
-* [Paraná – Outros Cloretos de Potássio](https://quantimportbrazil.github.io/portos_do_maranhão_outros_superfosfatos/)
+* [São Paulo – Ureia](https://quantimportbrazil.github.io/portos_de_sao_paulo_outros_superfosfatos/)
+* [Paraná – Outros Cloretos de Potássio](https://quantimportbrazil.github.io/portos_do_parana_outros_superfosfatos/)
 
 ---
 
