@@ -16,7 +16,7 @@ O Brasil posiciona-se como o líder mundial na importação de fertilizantes, de
 
 ### Projeções por Complexos Portuários
 * [São Paulo – adubos](https://quantimportbrazil.github.io/portos_de_sao_paulo_adubos/)
-* [Paraná – NP/NK/KP](https://quantimportbrazil.github.io/portos_do_parana_NP/NK/PK)
+* [Paraná – NP/NK/PK](https://quantimportbrazil.github.io/portos_do_parana_np_nk_pk)
 * [Maranhão – Outros Superfosfatos](https://quantimportbrazil.github.io/portos_do_maranhao_outros_superfosfatos/)
 
 ---
