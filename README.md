@@ -15,9 +15,9 @@ O Brasil posiciona-se como o líder mundial na importação de fertilizantes, de
 ---
 
 ### Projeções por Complexos Portuários
+* [São Paulo – adubos](https://quantimportbrazil.github.io/portos_de_sao_paulo_adubos/)
+* [Paraná – NP/NK/KP](https://quantimportbrazil.github.io/portos_do_parana_NP/NK/KP/)
 * [Maranhão – Outros Superfosfatos](https://quantimportbrazil.github.io/portos_do_maranhao_outros_superfosfatos/)
-* [São Paulo – Outros Superfosfatos](https://quantimportbrazil.github.io/portos_de_sao_paulo_outros_superfosfatos/)
-* [Paraná – Outros Superfosfatos](https://quantimportbrazil.github.io/portos_do_parana_outros_superfosfatos/)
 
 ---
 
@@ -34,12 +34,12 @@ O Brasil posiciona-se como o líder mundial na importação de fertilizantes, de
 ---
 
 ### Projeções por Município
-* [Candeias (BA) – NP / NK / PK](https://quantimportbrazil.github.io/candeias_np_nk_pk/)
-* [Paranaguá (PR) – NP / NK / PK](https://quantimportbrazil.github.io/paranagua_np_nk_pk/)
-* [Rio Grande (RS) – NP / NK / PK](https://quantimportbrazil.github.io/rio_grande_np_nk_pk/)
+* [Candeias (BA) – NP/NK/PK](https://quantimportbrazil.github.io/candeias_np_nk_pk/)
+* [Paranaguá (PR) – NP/NK/PK](https://quantimportbrazil.github.io/paranagua_np_nk_pk/)
+* [Rio Grande (RS) – NP/NK/PK](https://quantimportbrazil.github.io/rio_grande_np_nk_pk/)
 * [Rondonópolis (MT) – Nitrogenados](https://quantimportbrazil.github.io/rondonopolis_nitrogenados/)
 * [São Francisco do Sul (SC) – Nitrogenados](https://quantimportbrazil.github.io/sao_francisco_do_sul_nitrogenados/)
-* [São Luís (MA) – NP / NK / PK](https://quantimportbrazil.github.io/sao_luis_np_nk_pk/)
+* [São Luís (MA) – NP/NK/PK](https://quantimportbrazil.github.io/sao_luis_np_nk_pk/)
 * [Uberaba (MG) – Nitrogenados](https://quantimportbrazil.github.io/uberaba_nitrogenados/)
 
 ---
