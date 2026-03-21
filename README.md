@@ -27,9 +27,9 @@ O Brasil posiciona-se como o líder mundial na importação de fertilizantes, de
 * [MA – Outros Cloretos de Potássio](https://quantimportbrazil.github.io/ma_mop/)
 * [MG – Outros Cloretos de Potássio](https://quantimportbrazil.github.io/mg_mop/)
 * [MT – Ureia](https://quantimportbrazil.github.io/mt_ureia/)
-* [PR – Ureia](https://quantimportbrazil.github.io/pr_urea/)
-* [RS – Ureia](https://quantimportbrazil.github.io/rs_urea/)
-* [SP – Ureia](https://quantimportbrazil.github.io/sp_urea/)
+* [PR – Ureia](https://quantimportbrazil.github.io/pr_ureia/)
+* [RS – Ureia](https://quantimportbrazil.github.io/rs_ureia/)
+* [SP – Ureia](https://quantimportbrazil.github.io/sp_ureia/)
 
 ---
 
