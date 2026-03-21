@@ -1,4 +1,5 @@
-# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport  
+# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport   
+![Risk](https://img.shields.io/badge/Risk-Geopolitical%20Exposure-bd2d2d)
 
 **[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Voltar para Demos](https://quantimportbrazil.github.io/Demo/)**
 
