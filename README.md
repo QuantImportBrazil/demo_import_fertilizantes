@@ -19,17 +19,17 @@ O Brasil posiciona-se como o líder mundial na importação de fertilizantes, de
 **Por Complexos Portuários**  
 * [exemplo1](https://quantimportbrazil.github.io/import_fert_port_1/)  
 * [exemplo2](https://quantimportbrazil.github.io/import_fert_port_2/)  
-* [exemplo3](https://quantimportbrazil.github.io/import_fert_port_3)  
+* [exemplo3](https://quantimportbrazil.github.io/import_fert_port_3/)  
 ---  
 **Por Unidade Federativa**  
 * [exemplo1](https://quantimportbrazil.github.io/import_fert_uf_1/)  
 * [exemplo2](https://quantimportbrazil.github.io/import_fert_uf_2/)  
-* [exemplo3](https://quantimportbrazil.github.io/import_fert_uf_3)  
+* [exemplo3](https://quantimportbrazil.github.io/import_fert_uf_3/)  
 ---  
 **Por Município**  
 * [exemplo1](https://quantimportbrazil.github.io/import_fert_mun_1/)  
 * [exemplo2](https://quantimportbrazil.github.io/import_fert_mun_2/)  
-* [exemplo3](https://quantimportbrazil.github.io/import_fert_mun_3)  
+* [exemplo3](https://quantimportbrazil.github.io/import_fert_mun_3/)  
 ---
 
 ### Contato
