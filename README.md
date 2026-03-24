@@ -2,7 +2,7 @@
 [![Texto](https://img.shields.io/badge/Cenário-Hormuz%20fechado%20indefinidamente-bd2d2d)](https://quantimportbrazil.github.io/cenario/)
 
 **[Home](https://quantimportbrazil.github.io/sobre/)**  
-**[Demo](https://quantimportbrazil.github.io/Demo/)**  
+**[Demo](https://quantimportbrazil.github.io/demo/)**  
 
 ---  
 
