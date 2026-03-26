@@ -17,21 +17,21 @@ O Brasil posiciona-se como o líder mundial na importação de fertilizantes, de
 
 ---  
 **Por Complexos Portuários**  
-* [PR - Nitrogenados (NCM:31042090)](https://quantimportbrazil.github.io/import_fert_port_1/)
-* [SP - MOP (SH4:3102)](https://quantimportbrazil.github.io/import_fert_port_2/)  
+* [PR - MOP (NCM:31042090)](https://quantimportbrazil.github.io/import_fert_port_1/)
+* [SP - Nitrogenados (SH4:3102)](https://quantimportbrazil.github.io/import_fert_port_2/)  
 * [RS - Adubos (SH2:31)](https://quantimportbrazil.github.io/import_fert_port_3/)  
   
 ---  
 **Por Unidade Federativa**  
-* [MT - (NCM:31042090)](https://quantimportbrazil.github.io/import_fert_uf_1/)  
-* [MA - (SH4:3103)](https://quantimportbrazil.github.io/import_fert_uf_2/)  
-* [MG - (SH2:31)](https://quantimportbrazil.github.io/import_fert_uf_3/)
+* [MT - MOP (NCM:31042090)](https://quantimportbrazil.github.io/import_fert_uf_1/)  
+* [MA - Outros fosfatados (SH4:3103)](https://quantimportbrazil.github.io/import_fert_uf_2/)  
+* [MG - Adubos (SH2:31)](https://quantimportbrazil.github.io/import_fert_uf_3/)
   
 ---  
 **Por Município**  
-* [Candeias/BA - (SH4:3102)](https://quantimportbrazil.github.io/import_fert_mun_1/)  
-* [São Franscisco do Sul/SC - (SH4:3102)](https://quantimportbrazil.github.io/import_fert_mun_2/)  
-* [Barcarena/PA - (SH2:31)](https://quantimportbrazil.github.io/import_fert_mun_3/)
+* [Candeias/BA - Nitrogenados (SH4:3102)](https://quantimportbrazil.github.io/import_fert_mun_1/)  
+* [São Franscisco do Sul/SC - Nitrogenados (SH4:3102)](https://quantimportbrazil.github.io/import_fert_mun_2/)  
+* [Barcarena/PA - Adubos (SH2:31)](https://quantimportbrazil.github.io/import_fert_mun_3/)
   
 ---
 
