@@ -29,9 +29,9 @@ O Brasil posiciona-se como o líder mundial na importação de fertilizantes, de
   
 ---  
 **Por Município**  
-* [exemplo1](https://quantimportbrazil.github.io/import_fert_mun_1/)  
-* [exemplo2](https://quantimportbrazil.github.io/import_fert_mun_2/)  
-* [exemplo3](https://quantimportbrazil.github.io/import_fert_mun_3/)
+* [Candeias/BA - NP/NK/KP (SH4 3105)](https://quantimportbrazil.github.io/import_fert_mun_1/)  
+* [São Franscisco do Sul/SC - Nitrogenados (SH4 3102)](https://quantimportbrazil.github.io/import_fert_mun_2/)  
+* [Uberaba/MG - Adubos (SH2 31)](https://quantimportbrazil.github.io/import_fert_mun_3/)
   
 ---
 
