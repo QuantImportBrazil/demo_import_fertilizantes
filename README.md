@@ -24,7 +24,7 @@ O Brasil posiciona-se como o líder mundial na importação de fertilizantes, de
 ---  
 **Por Unidade Federativa**  
 * [MT - MOP (NCM:31042090)](https://quantimportbrazil.github.io/import_fert_uf_1/)  
-* [MA - Outros fosfatados (SH4:3103)](https://quantimportbrazil.github.io/import_fert_uf_2/)  
+* [MA - Fosfatados (SH4:3103)](https://quantimportbrazil.github.io/import_fert_uf_2/)  
 * [MG - Adubos (SH2:31)](https://quantimportbrazil.github.io/import_fert_uf_3/)
   
 ---  
